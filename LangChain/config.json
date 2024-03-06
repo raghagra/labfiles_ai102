@@ -1,0 +1,6 @@
+{
+    "DEPLOYMENT_NAME":"gpt-35-turbo",
+    "OPENAI_API_BASE":"https://azure-openai-test21.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "openai_api_key":"d1869cee351446e2bc6b6ffef2207576"
+}
